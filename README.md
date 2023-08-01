@@ -8,7 +8,9 @@
 
 - WAL
 - Range Scan
-- PUT/GET Basic System
+- PUT/GET/DEL Basic OP
 - Persistence Storage
+- Auto CI/CD
+- Test Script
 
 
