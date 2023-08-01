@@ -1,2 +1,12 @@
-# LSM-DB
-基于日志结构合并树的键值对存储系统
+## LSM-KV: KVStore using Log-structured Merge Tree
+
+> A tiny db-store system
+
+### Feature
+
+- WAL
+- Range Scan
+- PUT/GET Basic System
+- Persistence Storage
+
+
